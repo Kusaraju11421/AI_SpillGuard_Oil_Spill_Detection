@@ -126,8 +126,6 @@ This contains everything you need to run your app locally.
    GEMINI_API_KEY=your_api_key_here
    ```
 
-   📄 Gemini API Documentation:
-   [https://ai.google.dev/](https://ai.google.dev/)
 
 3. Run the application
 
